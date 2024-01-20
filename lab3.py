@@ -5,7 +5,7 @@
 # Replace the following placeholders with your information.
 # Please see the README in this repository for the requirements of this lab exercise
 
-# Calvlin Wong
+# Calvin Wong
 # calviw8@uci.edu
 # 36522374
 
